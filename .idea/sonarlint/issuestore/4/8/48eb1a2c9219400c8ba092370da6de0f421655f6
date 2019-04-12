@@ -1,0 +1,9 @@
+
+msquid:S1192‹"PDefine a constant instead of duplicating this literal "%1c%m\u001b[m%n" 5 times.(ÐþïÊÿÿÿÿÿ
+N
+squid:S106?"9Replace this use of System.out or System.err by a logger.(Â¨ÏD
+T
+squid:S106{"9Replace this use of System.out or System.err by a logger.(œ»£’ùÿÿÿÿ
+U
+squid:S106»"9Replace this use of System.out or System.err by a logger.(”ØêÆþÿÿÿÿ
+hsquid:CallToDeprecatedMethod\";Remove this use of "selectLoggerLibrary"; it is deprecated.(Çùÿçùÿÿÿÿ

@@ -1,0 +1,8 @@
+
+Ssquid:UselessImportCheck"/Remove this unused import 'java.io.FileFilter'.(ÔÅÑ—
+@squid:S1148é"#Use a logger to log this exception.(€ÉÔ…ýÿÿÿÿ
+@squid:S1148â"#Use a logger to log this exception.(€ÉÔ…ýÿÿÿÿ
+Bsquid:S1075a"&Remove this hard-coded path-delimiter.(„ÎŒêùÿÿÿÿ
+Rsquid:S1141Þ"5Extract this nested try block into a separate method.(¡»¢üùÿÿÿÿ
+osquid:S1450"YRemove the "reportName" field and declare it as a local variable in the relevant methods.(ù±×:
+`squid:S2259?"DA "NullPointerException" could be thrown; "extent" is nullable here.(øÛÈÞøÿÿÿÿ

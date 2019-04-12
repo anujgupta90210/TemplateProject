@@ -1,0 +1,105 @@
+
+‚squid:S1192–"eDefine a constant instead of duplicating this literal "Unable to find element using xpath: " 3 times.(«ìşªøÿÿÿÿ
+csquid:CommentedOutCodeLine£"<This block of commented-out lines of code should be removed.(•î†¯
+hsquid:CommentedOutCodeLineä"<This block of commented-out lines of code should be removed.(ó¯ïÑüÿÿÿÿ
+csquid:CommentedOutCodeLineÓ"<This block of commented-out lines of code should be removed.(­ûÃõ
+fsquid:S1192û"NDefine a constant instead of duplicating this literal " in element: " 4 times.(ë‰Ş°
+zsquid:S1192–"]Define a constant instead of duplicating this literal "Unable to click on element: " 5 times.(®„«ùıÿÿÿÿ
+_squid:CallToDeprecatedMethodŞ"1Remove this use of "CSVReader"; it is deprecated.(¼¾™Üøÿÿÿÿ
+U
+squid:S106ä	"9Replace this use of System.out or System.err by a logger.(¤å«´úÿÿÿÿ
+Lsquid:S1066"/Merge this if statement with the enclosing one.(ŠØå¬ùÿÿÿÿ
+isquid:S1192ò	"QDefine a constant instead of duplicating this literal " from dropdown: " 4 times.(Õ¿¿³
+csquid:CommentedOutCodeLine¿"<This block of commented-out lines of code should be removed.(•î†¯
+U
+squid:S106°"9Replace this use of System.out or System.err by a logger.(àØåüıÿÿÿÿ
+[squid:S1155ƒ">Use isEmpty() to check whether the collection is empty or not.(©’Ú˜úÿÿÿÿ
+Jsquid:S1481¢"-Remove this unused "filePath" local variable.(ÒîÌ¨ùÿÿÿÿ
+p
+squid:S135¢"YReduce the total number of break and continue statements in this loop to use at most one.( È¬Ñ
+U
+squid:S106ê"9Replace this use of System.out or System.err by a logger.(ÎÅŞûÿÿÿÿ
+^squid:S2142ç"FEither re-interrupt this method or rethrow the "InterruptedException".(ä ¹€
+esquid:S1192„"MDefine a constant instead of duplicating this literal " and index: " 4 times.(¾ÏÔø
+hsquid:CommentedOutCodeLineÀ	"<This block of commented-out lines of code should be removed.(Æ¸ ®üÿÿÿÿ
+p
+squid:S135¾"YReduce the total number of break and continue statements in this loop to use at most one.( È¬Ñ
+Vsquid:S1155Á">Use isEmpty() to check whether the collection is empty or not.(ıœæê
+lsquid:S00100É"NRename this method name to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(÷±Ã¿ûÿÿÿÿ
+|squid:S1192{"`Define a constant instead of duplicating this literal "Unable to navigate to the url: " 3 times.(àÎı±ûÿÿÿÿ
+gsquid:S00100ú"NRename this method name to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(úÏ–©
+5squid:S2119ï"Save and re-use this "Random".(¼İÅf
+squid:S1192Ş
+"gDefine a constant instead of duplicating this literal "Clicked on element using cssSelector: " 3 times.(Æ·œ
+U
+squid:S106‡	"9Replace this use of System.out or System.err by a logger.(àØåüıÿÿÿÿ
+gsquid:CommentedOutCodeLineh"<This block of commented-out lines of code should be removed.(ŞÍ˜‰ÿÿÿÿÿ
+jsquid:S00117‰"QRename this local variable to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(ÙØü·
+fsquid:S1192ó"NDefine a constant instead of duplicating this literal " under menu: " 6 times.(ØàÎÈ
+Œsquid:S1192á
+"oDefine a constant instead of duplicating this literal "Unable to click on element using cssSelector: " 3 times.(¡¡ÍÔøÿÿÿÿ
+U
+squid:S106É	"9Replace this use of System.out or System.err by a logger.(Êàóòşÿÿÿÿ
+rsquid:S1192Š
+"ZDefine a constant instead of duplicating this literal "Selected value at index: " 3 times.(°±áä
+csquid:CommentedOutCodeLine‚"<This block of commented-out lines of code should be removed.(çâìë
+squid:S1192
+"bDefine a constant instead of duplicating this literal "Unable to select value at index: " 3 times.(úµàøÿÿÿÿ
+U
+squid:S106¯	"9Replace this use of System.out or System.err by a logger.(àØåüıÿÿÿÿ
+lsquid:S00100Û"NRename this method name to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(î’¿ùÿÿÿÿ
+zsquid:S1192”"bDefine a constant instead of duplicating this literal " from dropdown with cssSelector: " 8 times.(ÏÃÀ°
+msquid:S1192¯"UDefine a constant instead of duplicating this literal " using cssSelector: " 4 times.(°­‘Ä
+lsquid:S00100‚"NRename this method name to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(øŸùÿÿÿÿ
+^squid:S1192»"GDefine a constant instead of duplicating this literal "button" 3 times.(®ıN
+U
+squid:S106ç"9Replace this use of System.out or System.err by a logger.(àØåüıÿÿÿÿ
+P
+squid:S106ì	"9Replace this use of System.out or System.err by a logger.(àõÍÂ
+vsquid:S1192õ	"YDefine a constant instead of duplicating this literal "Unable to select value: " 4 times.(°±’ùÿÿÿÿ
+Zsquid:CallToDeprecatedMethodæ"1Remove this use of "CSVWriter"; it is deprecated.(Å­…ƒ
+Osquid:S1135µ"2Complete the task associated to this TODO comment.(Çİƒºÿÿÿÿÿ
+dsquid:S2095Ş"GUse try-with-resources or close this "CSVReader" in a "finally" clause.(¼¾™Üøÿÿÿÿ
+{squid:S1192°"^Define a constant instead of duplicating this literal "In table list view, click on:" 4 times.(àØåüıÿÿÿÿ
+osquid:S3776¹"RRefactor this method to reduce its Cognitive Complexity from 16 to the 15 allowed.(«èµÑøÿÿÿÿ
+P
+squid:S106™
+"9Replace this use of System.out or System.err by a logger.(àõÍÂ
+dsquid:S1192³"LDefine a constant instead of duplicating this literal " and cell: " 4 times.(ç¥Ä
+P
+squid:S106„
+"9Replace this use of System.out or System.err by a logger.(¤ª˜¦
+gsquid:S00100Ô"NRename this method name to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(’¼Âë
+isquid:S1192ò	"QDefine a constant instead of duplicating this literal "Selected value: " 4 times.(Õ¿¿³
+csquid:S1192¤"FDefine a constant instead of duplicating this literal "-rows" 6 times.(ÀÔÊãøÿÿÿÿ
+dsquid:UnusedPrivateMethodß">Remove this unused private "sendPerfStatsToTimingsApi" method.(íëáû
+U
+squid:S106†"9Replace this use of System.out or System.err by a logger.(‰å±íÿÿÿÿÿ
+U
+squid:S106ü	"9Replace this use of System.out or System.err by a logger.(¤å«´úÿÿÿÿ
+Ysquid:S1854¢"<Remove this useless assignment to local variable "filePath".(ÒîÌ¨ùÿÿÿÿ
+\squid:S2147n"ECombine this catch with the one at line 108, which has the same body.(ä ¹€
+osquid:S00117¸"QRename this local variable to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(ØÿúÆÿÿÿÿÿ
+P
+squid:S106Ğ	"9Replace this use of System.out or System.err by a logger.(ñù˜
+msquid:S1192ş"PDefine a constant instead of duplicating this literal " from dropdown " 4 times.(Öø¾©üÿÿÿÿ
+bsquid:CommentedOutCodeLineV"<This block of commented-out lines of code should be removed.(­ûÃõ
+Bsquid:S00108É")Either remove or fill this block of code.(”ı¾
+gsquid:S1192ê"JDefine a constant instead of duplicating this literal " at row: " 5 times.(’Å‡Ùøÿÿÿÿ
+_squid:S2095æ"GUse try-with-resources or close this "CSVWriter" in a "finally" clause.(Å­…ƒ
+U
+squid:S106è"9Replace this use of System.out or System.err by a logger.(ğæóüÿÿÿÿ
+zsquid:S1192¨"]Define a constant instead of duplicating this literal "Unable to capture screenshot" 3 times.(„¼Äÿÿÿÿÿ
+]squid:S2142n"FEither re-interrupt this method or rethrow the "InterruptedException".(ä ¹€
+isquid:S1192«
+"LDefine a constant instead of duplicating this literal " at index: " 8 times.(ùƒË°ÿÿÿÿÿ
+Fsquid:S2140ó")Use "java.util.Random.nextInt()" instead.(¡€Ñùÿÿÿÿ
+gsquid:S00100‰"NRename this method name to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(ÙØü·
+Bsquid:S00108Ó")Either remove or fill this block of code.(”ı¾
+esquid:S1192ø"MDefine a constant instead of duplicating this literal " using key: " 4 times.(Ãúí¶
+U
+squid:S106¿	"9Replace this use of System.out or System.err by a logger.(­Šµ˜ÿÿÿÿÿ
+hsquid:CommentedOutCodeLine¬"<This block of commented-out lines of code should be removed.(éÈòŸıÿÿÿÿ
+rsquid:S1192“"UDefine a constant instead of duplicating this literal "Clicked on element: " 5 times.(§¤§Ôøÿÿÿÿ
+csquid:CommentedOutCodeLineÙ"<This block of commented-out lines of code should be removed.(ê«¢ó
+Osquid:S1135¥"2Complete the task associated to this TODO comment.(Çİƒºÿÿÿÿÿ

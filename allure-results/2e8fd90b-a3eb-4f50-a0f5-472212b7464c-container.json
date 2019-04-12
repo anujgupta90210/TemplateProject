@@ -1,0 +1,1 @@
+{"uuid":"2e8fd90b-a3eb-4f50-a0f5-472212b7464c","name":"frameworkutils.FrameworkBaseTest.endReporter","description":"","start":1555041632431,"stop":1555041632478,"children":["78ba80d2-6777-465e-90c3-acf0f0fecd7f"],"afters":[{"name":"endReporter","status":"passed","stage":"finished","description":"","start":1555041632431,"stop":1555041632478}]}

@@ -1,0 +1,48 @@
+INFO  2019-04-12 14:18:06 - #######  test3  ####### 
+INFO  2019-04-12 14:18:06 - #######  test2  ####### 
+INFO  2019-04-12 14:18:06 - #######  test5  ####### 
+INFO  2019-04-12 14:18:06 - #######  test1  ####### 
+INFO  2019-04-12 14:18:06 - #######  test4  ####### 
+INFO  2019-04-12 14:18:12 - Navigated to the url: http://iqa720.bss.com:30005/index.zul 
+INFO  2019-04-12 14:18:12 - Navigated to the url: http://iqa720.bss.com:30005/index.zul 
+INFO  2019-04-12 14:18:12 - Navigated to the url: http://iqa720.bss.com:30005/index.zul 
+INFO  2019-04-12 14:18:14 - Static wait of: 2000 seconds. 
+INFO  2019-04-12 14:18:14 - Found element: [[ChromeDriver: chrome on XP (dd8520bcdd1799ed7ce9af2d78b7a042)] -> css selector: #txtusername] using cssSelector: By.cssSelector: #txtusername 
+INFO  2019-04-12 14:18:14 - Static wait of: 2000 seconds. 
+INFO  2019-04-12 14:18:14 - Found element: [[ChromeDriver: chrome on XP (dd8520bcdd1799ed7ce9af2d78b7a042)] -> css selector: #txtpassword] using cssSelector: By.cssSelector: #txtpassword 
+INFO  2019-04-12 14:18:14 - waited for VISIBILITY_OF_ELEMENT_LOCATED for By.cssSelector: #btnlogin-real 
+INFO  2019-04-12 14:18:14 - Waited for visibility of element By.cssSelector: #btnlogin-real 
+INFO  2019-04-12 14:18:14 - Waited 30 seconds for element to be clickable 
+INFO  2019-04-12 14:18:14 - Found element: [[ChromeDriver: chrome on XP (48ea24aebb8129e1c3c620aea6ab179f)] -> css selector: #txtusername] using cssSelector: By.cssSelector: #txtusername 
+INFO  2019-04-12 14:18:14 - Clicked on element: By.cssSelector: #btnlogin-real 
+INFO  2019-04-12 14:18:14 - Static wait of: 2000 seconds. 
+INFO  2019-04-12 14:18:14 - Found element: [[ChromeDriver: chrome on XP (48ea24aebb8129e1c3c620aea6ab179f)] -> css selector: #txtpassword] using cssSelector: By.cssSelector: #txtpassword 
+INFO  2019-04-12 14:18:15 - Navigated to the url: http://iqa720.bss.com:30005/index.zul 
+INFO  2019-04-12 14:18:15 - waited for VISIBILITY_OF_ELEMENT_LOCATED for By.cssSelector: #btnlogin-real 
+INFO  2019-04-12 14:18:15 - Waited for visibility of element By.cssSelector: #btnlogin-real 
+INFO  2019-04-12 14:18:15 - Navigated to the url: http://iqa720.bss.com:30005/index.zul 
+INFO  2019-04-12 14:18:15 - Waited 30 seconds for element to be clickable 
+ERROR 2019-04-12 14:18:15 - Unable to find element: null using cssSelector: By.cssSelector: #txtusername 
+ERROR 2019-04-12 14:18:15 -  
+INFO  2019-04-12 14:18:15 - 4 
+INFO  2019-04-12 14:18:15 - Clicked on element: By.cssSelector: #btnlogin-real 
+INFO  2019-04-12 14:18:16 - Static wait of: 2000 seconds. 
+INFO  2019-04-12 14:18:17 - 5 
+INFO  2019-04-12 14:18:17 - Static wait of: 2000 seconds. 
+INFO  2019-04-12 14:18:17 - Found element: [[ChromeDriver: chrome on XP (518aa5b8b5fa53bb81308fc1be897a01)] -> css selector: #txtusername] using cssSelector: By.cssSelector: #txtusername 
+INFO  2019-04-12 14:18:17 - Found element: [[ChromeDriver: chrome on XP (518aa5b8b5fa53bb81308fc1be897a01)] -> css selector: #txtpassword] using cssSelector: By.cssSelector: #txtpassword 
+INFO  2019-04-12 14:18:17 - Static wait of: 2000 seconds. 
+INFO  2019-04-12 14:18:17 - Found element: [[ChromeDriver: chrome on XP (75328e1018cb220f4f0e68000e8c1139)] -> css selector: #txtusername] using cssSelector: By.cssSelector: #txtusername 
+INFO  2019-04-12 14:18:17 - Found element: [[ChromeDriver: chrome on XP (75328e1018cb220f4f0e68000e8c1139)] -> css selector: #txtpassword] using cssSelector: By.cssSelector: #txtpassword 
+INFO  2019-04-12 14:18:17 - waited for VISIBILITY_OF_ELEMENT_LOCATED for By.cssSelector: #btnlogin-real 
+INFO  2019-04-12 14:18:17 - Waited for visibility of element By.cssSelector: #btnlogin-real 
+INFO  2019-04-12 14:18:17 - Waited 30 seconds for element to be clickable 
+INFO  2019-04-12 14:18:17 - Clicked on element: By.cssSelector: #btnlogin-real 
+INFO  2019-04-12 14:18:17 - Static wait of: 2000 seconds. 
+INFO  2019-04-12 14:18:17 - Waited for visibility of element By.cssSelector: #btn16 
+INFO  2019-04-12 14:18:17 - #######  test6  ####### 
+INFO  2019-04-12 14:18:17 - Waited 30 seconds for element to be clickable 
+INFO  2019-04-12 14:18:17 - Clicked on element: By.cssSelector: #btn16 
+INFO  2019-04-12 14:18:19 - Static wait of: 2000 seconds. 
+INFO  2019-04-12 14:18:19 - Static wait of: 2000 seconds. 
+INFO  2019-04-12 14:18:19 - 2 

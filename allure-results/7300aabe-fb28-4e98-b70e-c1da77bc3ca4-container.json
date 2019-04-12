@@ -1,0 +1,1 @@
+{"uuid":"7300aabe-fb28-4e98-b70e-c1da77bc3ca4","name":"productutils.ProjectBaseTest.parallelLogin","description":"","start":1555054704500,"stop":1555054711168,"children":["0a93fd71-d4c0-4406-a9b7-372c1b5de1e7"],"befores":[{"name":"parallelLogin","status":"passed","stage":"finished","description":"","start":1555054704500,"stop":1555054711168}]}
